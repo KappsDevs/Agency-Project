@@ -1,1 +1,1 @@
-You can acess it here: https://kappsdevs.github.io/Agency-Project/
+You can access it at https://kappsdevs.github.io/Agency-Project/
